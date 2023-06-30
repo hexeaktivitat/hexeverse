@@ -12,7 +12,7 @@ Major sea routes connect the four continents of Phaedra, but few outside the mer
 
 ## Continents
 
-- Valadyne
+- [Valadyne](setting/valadyne.md)
 - Anock
 - M'shavan
 - Er
