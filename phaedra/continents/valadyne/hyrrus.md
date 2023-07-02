@@ -4,7 +4,7 @@
 
 Founded nearly fifty millenia ago, Hyrrus is one of the oldest nation-states on Phaedra itself - according to its own internal mythology, following a civil war in the heavens, its original populace descended from the Valadyne Tower and populated the dense, lush forest on the surface. There are few historical records to verify such a claim available to the public at large, but the few extant records do confirm that Hyrrian nobility have some connection to the Tower.
 
-The current regent, Aburia, 
+The current regent, Aburia, is near the end of her term. Well-liked and well-regarded, her thirty-year stint has been beneficial for Hyrrus. It is likely that her Vice-Regent, Colun, will be elected when her term concludes, but the more conservative nobility always see the end of a regential term as an opportunity to wedge their dreams of empire back into the public discourse. One noble, Vahrain, has long been seeking a way to foreground more than just dreams of empire, however...
 
 ### Torrus
 
